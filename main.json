@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mainjson#start"
+                 "value":"{<lobby>\/non-tech.json#start_ard-buero}"
                 }],
          "type":"tilelayer",
          "visible":false,
