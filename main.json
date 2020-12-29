@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/non-tech.json#start_ard-buero}"
+                 "value":"{<lobby>\/maps\/non-tech.json#start_ard_hoerfunk}"
                 }],
          "type":"tilelayer",
          "visible":false,
