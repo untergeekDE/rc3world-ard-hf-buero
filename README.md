@@ -9,4 +9,4 @@ Beware the Mateflasche!
 
 Fragen und Rückmeldungen: jan.eggers (at) hr de
 
-*Stand 25.12.2020 läuft es leider noch nicht auf dem Testserver, und ich habe keine Ahnung, wieso - alle Links zu den PNGs sind im json-File liebevoll handverlesen...*
+*Die rC3 ist vorbei, die 2D-Welt ist (vorerst) wieder weg - aber immerhin hatten wir, dank **psy** aus dem rc3world-Team, zwei Tage unser eigenes kleines Pixelbüro in der digitalen rC3world. Und es hat riesigen Spaß gemacht! Vor allem das Sightseeing in all den wunderschönen, kreativen, spannenden Räumen der vielen, vielen Assemblys. Danke, dass wir dabei sein durften, und alles Gute für 2021. - jan, 31-12-2020*
