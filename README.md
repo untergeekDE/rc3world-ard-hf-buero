@@ -1,5 +1,5 @@
 # rc3world-ard-hf-buero
-Das virtuelle Büro der ARD-Hörfunkreporter Michael Voss, Konrad Spangenberg und Jan Eggers auf der rC3. Schnell und hastig eingerichtet. Abgeleitet vom [rc3-Starter-Kit](https://git.cccv.de/rc3/world-map-starterkit) (small.json)
+Das virtuelle Büro der ARD-Hörfunkreporter Michael Voss, Konrad Spremberg und Jan Eggers auf der rC3. Schnell und hastig eingerichtet. Abgeleitet vom [rc3-Starter-Kit](https://git.cccv.de/rc3/world-map-starterkit) (small.json)
 
 Soll diese Funktionen erfüllen: 
 - Uns - den drei Reportern - eine virtuelle Heimat in der rc3world verschaffen
