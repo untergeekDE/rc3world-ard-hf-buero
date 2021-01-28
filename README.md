@@ -13,7 +13,7 @@ Fragen und Rückmeldungen: jan.eggers (at) hr de
 
 
 So sah es übrigens aus: 
-![Bild1](https://github.com/untergeekDE/rc3world-ard-hf-buero/raw/master/src/common/rc3world-ard.png "Screenshot ARD-Raum in der rc3world")
+![Bild1](https://raw.githubusercontent.com/untergeekDE/rc3world-ard-hf-buero/main/rc3world-ard.png "Screenshot ARD-Raum in der rc3world")
 
 So sah es übrigens auf der anderen Seite des Bildschirms aus: 
-![Bild](https://github.com/untergeekDE/rc3world-ard-hf-buero/raw/master/src/common/real-world-screenshot.jpg "Der Schreibtisch des Reporters während der rc3world")
+![Bild](https://raw.githubusercontent.com/untergeekDE/rc3world-ard-hf-buero/main/real-world-screenshot.jpg "Der Schreibtisch des Reporters während der rc3world")
